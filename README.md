@@ -1,3 +1,4 @@
 # Shopping List App Challenge
 
-This repo contains starter files for the *Shopping List App* challenge.
+Completed the shopping list app challenge.  
+View tis page [live](https://human437.github.io/shopping-list/)!
